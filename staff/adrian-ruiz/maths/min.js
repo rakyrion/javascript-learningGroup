@@ -17,7 +17,6 @@ const minFunction = function (a, b) {
 
 const minFunction2 = function () {
 	let minValue
-	debugger
 	for(let i = 0; i < arguments.length; i++){
 		let tempValue 
 		if(arguments[i] < arguments[i + 1]) {
