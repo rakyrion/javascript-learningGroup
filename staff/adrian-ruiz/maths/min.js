@@ -34,3 +34,5 @@ const minFunction2 = function () {
 }
 
 console.log(minFunction2 (5, 10, 20, 3, 13, 7))
+
+console.log(Math.min(5, 10, 20, 3, 13, 7))
